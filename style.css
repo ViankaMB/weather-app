@@ -19,7 +19,7 @@ body {
 /* Put a box around the data */
 .box {
     border: 3px solid purple;
-    margin-right: 48vw;
+    margin-right: 40vw;
     padding: 10px;
     background-color: beige;
 }
