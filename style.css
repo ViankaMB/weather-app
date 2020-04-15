@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.header {
+    text-align: center;
+    margin: 100px;
+}
+
+.data {
+    margin-left: 20vw;
+}
+
+.box {
+    border: 3px solid purple;
+    margin-right: 50vw;
+    padding: 10px;
+    background-color: beige;
+}
