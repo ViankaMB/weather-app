@@ -1,5 +1,5 @@
 body {
-    background-image: url("playa.jpg");
+    background-image: url("beach.jpg");
     background-size: 100%;
     min-height: 100%;
     width: 100%;
@@ -22,4 +22,16 @@ body {
     margin-right: 48vw;
     padding: 10px;
     background-color: beige;
+}
+
+
+/* Footer */
+footer {
+    background-color: purple;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: auto;
 }
