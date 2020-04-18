@@ -31,7 +31,5 @@ footer {
     text-align: center;
     color: white;
     padding: 10px;
-    padding-left: 50px;
-    padding-right: 50px;
-    width: auto;
+    width: 100%;
 }
