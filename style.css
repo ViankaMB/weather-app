@@ -1,33 +1,35 @@
 body {
-    background-image: url("beach.jpg");
+    /*background-image: url("beach.jpg");*/
     background-size: 100%;
     min-height: 100%;
     width: 100%;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
 
 }
 
 .header {
     text-align: center;
     margin: 100px;
+    color: black;
 }
 
-.data {
+.jumbotron {
     margin-left: 20vw;
 }
 
 /* Put a box around the data */
 .box {
-    border: 3px solid purple;
+    border: 3px solid #20A6D4;
     margin-right: 48vw;
     padding: 10px;
-    background-color: beige;
+    background-color: #20A6D4;
 }
 
 
 /* Footer */
 footer {
-    background-color: purple;
+    background-color: #20A6D4;
     text-align: center;
     color: white;
     padding: 10px;
